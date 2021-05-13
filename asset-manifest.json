@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/lweeter/static/js/main.30e94ddc.chunk.js",
+    "main.js.map": "/lweeter/static/js/main.30e94ddc.chunk.js.map",
+    "runtime-main.js": "/lweeter/static/js/runtime-main.8d079b57.js",
+    "runtime-main.js.map": "/lweeter/static/js/runtime-main.8d079b57.js.map",
+    "static/js/2.b06c610c.chunk.js": "/lweeter/static/js/2.b06c610c.chunk.js",
+    "static/js/2.b06c610c.chunk.js.map": "/lweeter/static/js/2.b06c610c.chunk.js.map",
+    "index.html": "/lweeter/index.html",
+    "static/js/2.b06c610c.chunk.js.LICENSE.txt": "/lweeter/static/js/2.b06c610c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d079b57.js",
+    "static/js/2.b06c610c.chunk.js",
+    "static/js/main.30e94ddc.chunk.js"
+  ]
+}
